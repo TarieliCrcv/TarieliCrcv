@@ -11,7 +11,7 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,html,css,react" />  
-<img src="https://skillicons.dev/icons?i=git,github,cypress,playwright,selenium,regex" />  
+<img src="https://skillicons.dev/icons?i=git,github,cypress,selenium,regex" />  
 <img src="https://skillicons.dev/icons?i=linux,docker,raspberrypi,vscode" />
 
 </div>
@@ -24,34 +24,6 @@
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levan&layout=compact&theme=radical&hide_border=true" height="150" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Levan&theme=radical&hide_border=true" height="150" />
-
-</div>
-
-<div align="center">
-  <img src="https://github.com/Levan/Levan/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
-## 🚀 Featured Projects  
-
-<div align="center">
-
-### 🔹 [Automation Framework](https://github.com/Levan/automation-framework)  
-End-to-end test automation setup with reporting and reusable components.  
-*Tech: Cypress · Playwright · JS*
-
----
-
-### 🔹 [Web Utilities](https://github.com/Levan/web-utils)  
-Small but powerful tools for everyday workflow automation.  
-*Tech: Node.js · React · Python*
-
----
-
-### 🔹 [Infra Scripts](https://github.com/Levan/infra-scripts)  
-Scripts for servers, CI/CD pipelines, and IT automation.  
-*Tech: Bash · Docker · Linux*
 
 </div>
 
