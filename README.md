@@ -11,55 +11,53 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,html,css,react" />  
-<img src="https://skillicons.dev/icons?i=git,github,cypress,selenium,regex" />  
+<img src="https://skillicons.dev/icons?i=git,github,cypress,playwright,selenium,regex" />  
 <img src="https://skillicons.dev/icons?i=linux,docker,raspberrypi,vscode" />
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Overview  
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=Levan&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170"/>  
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Levan&theme=github-dark&hide_border=true" height="170"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levan&layout=compact&theme=radical&hide_border=true" height="150" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Levan&theme=radical&hide_border=true" height="150" />
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Levan&theme=github-dark&hide_border=true&area=true" />
-</div>
-
-<div align="center">
-  <img src="https://github.com/Levan/Levan/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/Levan/Levan/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
-## 🚀 Highlight Projects  
+## 🚀 Featured Projects  
 
 <div align="center">
 
-<a href="https://github.com/Levan/automation-framework">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Levan&repo=automation-framework&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/Levan/web-utils">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Levan&repo=web-utils&theme=github_dark&hide_border=true" />
-</a>
+### 🔹 [Automation Framework](https://github.com/Levan/automation-framework)  
+End-to-end test automation setup with reporting and reusable components.  
+*Tech: Cypress · Playwright · JS*
 
-<a href="https://github.com/Levan/dev-tools">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Levan&repo=dev-tools&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/Levan/infra-scripts">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Levan&repo=infra-scripts&theme=github_dark&hide_border=true" />
-</a>
+---
+
+### 🔹 [Web Utilities](https://github.com/Levan/web-utils)  
+Small but powerful tools for everyday workflow automation.  
+*Tech: Node.js · React · Python*
+
+---
+
+### 🔹 [Infra Scripts](https://github.com/Levan/infra-scripts)  
+Scripts for servers, CI/CD pipelines, and IT automation.  
+*Tech: Bash · Docker · Linux*
 
 </div>
 
 ---
 
-## 📬 Contact
+## 📬 Contact  
 
 <p align="center">
   <a href="https://github.com/Levan">
@@ -67,5 +65,8 @@
   </a>
   <a href="mailto:tsertsvadze2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/levan-tsertsvadze-076655262/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
