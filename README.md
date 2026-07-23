@@ -1,6 +1,6 @@
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=header">
 
-# <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+github+page;Have+a+great+day">
+# <img align="center" src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+github+page;Have+a+great+day">
 
 
 <table>
