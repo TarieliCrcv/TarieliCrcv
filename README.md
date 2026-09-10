@@ -59,7 +59,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cpp,html,css,js,ts,mysql,nodejs,react,vite,npm"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=postman,cypress,ubuntu,visualstudio,vscode,arduino,ableton"/>
+    <img src="https://skillicons.dev/icons?i=postman,cypress,ubuntu,visualstudio,vscode,arduino,express,docker,nestjs,postgres,selenium"/>
   </a>
 </p>
 
